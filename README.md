@@ -1,5 +1,9 @@
-# JogoEspaco
+# Quer Joga? Clica no Pc
 
+<a href="https://gabriellekw.github.io/JogoEspaco/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3271/3271109.png" alt="gabekw.jgespaco" height="40" width="40" /></a>
+</p>
+
+# JogoEspaco
 
 https://user-images.githubusercontent.com/76081229/176999117-f5f3eee9-0114-461d-b052-86029d039ae0.mp4
 
